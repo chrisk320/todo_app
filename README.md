@@ -1,1 +1,1 @@
-# todo_app
+Todo list web application using Python Flask
